@@ -1,0 +1,153 @@
+/*    URLS: .*/build.*, .*/rebuild.*    */
+.parameters > tbody:hover {
+    background-color: #787878 !important;
+}
+
+/*    URLS: all   */
+body {
+    background-color: #131313 !important;
+    color: #eee !important;
+  }
+  a {
+    color: #B2BEFF !important;
+  }
+  a:visited {
+    color: #8682B1 !important;
+  }
+  .active,
+  .dashboard tr:hover, .hover,
+  #top-left-nav, div.bd,
+  #search-box-completion li,
+  .pane-header, .top-sticker-inner,
+  .bigtable, .bigtable th, .bigtable td,
+  span.metric, span.metric small, ul#tabnav li {
+    background: #2B2B2B !important;
+    color: #fff !important;
+  }
+  .help {
+    background: #333 !important;
+    color: #eee !important;
+  }
+  #search-box-completion li:hover {
+    background: #222 !important;
+    color: #fff !important;
+  }
+  #top-panel, .header, 
+  th.yui3-datatable-header,
+  .yui3-datatable-sort-liner,
+  #hoverNotification,
+  div.footer {
+    background: #222 !important;
+    color: #fff !important;
+  }
+  td.low {
+    background-color: #700 !important;
+  }
+  td.medium {
+    background-color: #770 !important;
+  }
+  td.high {
+    background-color: #070 !important;
+  }
+  table.yui3-datatable-table td a,
+  table.yui3-datatable-table td {
+    color: white !important;
+  }
+  div.bd li:hover {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+  .yui-nav > li.selected,
+  .yui-nav > li.selected * {
+    background: #555 !important;
+    color: #fff !important;
+  }
+  .yui-nav > li.selected,
+  .yui-nav > li.selected:hover {
+    border: 1px solid #fff !important;
+  }
+  .yui-nav > li.selected *,
+  .yui-nav > li.selected *:hover {
+     border: 0px transparent !important;
+  }
+  .yui-nav > li,
+  .yui-nav > li * {
+    background: #333 !important;
+    color: #fff !important;
+  }
+  .yui-nav > li,
+  .yui-nav > li:hover {
+    border: 1px solid #fff !important;
+  }
+  .yui-nav > li *,
+  .yui-nav > li *:hover {
+     border: 0px transparent !important;
+  }
+  .yui-content {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+  div.repeated-chunk > table {
+    background: #333 !important;
+  }
+  input, input * {
+    background-color: #131313 !important;
+    color: #fff !important;
+  }
+  textarea, textarea * {
+    background-color: #131313 !important;
+    color: #fff !important;
+  }
+  div.bottom-sticker-inner {
+    background: #222 !important;
+    color: #fff !important;
+    border-radius: 5px 5px 0px 0px !important;
+  }
+  div.bottom-sticker-edge {
+    display: none !important;
+  }
+  /* code coverage stuff */
+  code, code * {
+    background: black !important;
+    color: #eee !important;
+  }
+  code .dcuc {
+    background: #610 !important;
+  }
+  code .dccv {
+    background: #040 !important;
+  }
+  #treeDiv, #treeDiv li, #treeDiv ul {
+    background: #111 !important;
+  }
+  #splitters, #splitters td, #splitters tr, #splitters table {
+    background: #333 !important;
+    border: transparent !important;
+  }
+  li a:hover, .dynatree-focused, .dynatree-active a {
+    background-color: #333 !important;
+  }
+#main-panel > div:nth-child(2) {
+  background-color: #131313 !important;
+}
+
+td {
+    color: #eee !important;
+}
+
+p {
+    color: #eee !important;
+}
+
+div {
+    background-color: #131313 !important;
+}
+
+.yui-tt, .yui-skin-sam .yui-tt .bd {
+    background-color: #131313 !important;
+    border-color: white !important
+}
+
+#side-panel > table > tbody > tr:nth-child(2) > td > form {
+    color: #eee !important;
+}
